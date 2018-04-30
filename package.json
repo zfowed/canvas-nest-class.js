@@ -1,0 +1,28 @@
+{
+  "name": "canvas-nest-class.js",
+  "version": "1.0.0",
+  "description": "一个基于html5 canvas绘制的网页背景效果，非常赞！",
+  "main": "src/canvas-nest-class.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zfowed/koa-blog/canvas-nest-class.js"
+  },
+  "keywords": [
+    "canvas",
+    "canvas-nest",
+    "canvas-nest-class",
+    "javascript",
+    "particles",
+    "html5",
+    "html5-canvas"
+  ],
+  "author": "zfowed",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
