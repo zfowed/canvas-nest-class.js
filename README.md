@@ -5,7 +5,7 @@
 
 因为不是模块化的，所以我就造了个轮子。。。
 
-[预览](https://zfowed.github.io/canvas-nest-class.js/index.html)
+[预览](https://zfowed.github.io/canvas-nest-class.js/demo/index.html)
 
 ## 特性
 
