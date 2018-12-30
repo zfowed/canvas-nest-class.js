@@ -5,6 +5,8 @@
 
 因为不是模块化的，所以我就造了个轮子。。。
 
+[预览](https://zfowed.github.io/canvas-nest-class.js/index.html)
+
 ## 特性
 
 - 不依赖任何框架或者内库，比如不依赖 jQuery，使用原生的 javascript。
